@@ -1,0 +1,973 @@
+table_path,column_name,column_id,column_type,row_id,gt_val
+table-0874-236.csv,Director,2,cate,8,[Mennan_Yapo|Mennan Yapo]
+table-0874-236.csv,Director,2,cate,11,[Susanne_Bier|Susanne Bier]
+table-0874-236.csv,Director,2,cate,7,[Todd_Haynes|Todd Haynes]
+table-0874-236.csv,Director,2,cate,0,[Sean_Penn|Sean Penn]
+table-0874-236.csv,Director,2,cate,2,[Olivier_Dahan|Olivier Dahan]
+table-1557-406.csv,Party,1,cate,18,[Republican_Party_(United_States)|Republican]
+table-1557-406.csv,Party,1,cate,20,[Republican_Party_(United_States)|Republican]
+table-1557-406.csv,Party,1,cate,17,[Republican_Party_(United_States)|Republican]
+table-1557-406.csv,Party,1,cate,30,[Republican_Party_(United_States)|Republican]
+table-1557-406.csv,Party,1,cate,42,[Republican_Party_(United_States)|Republican]
+table-1635-999.csv,Operator,3,cate,2,[Metroline|Metroline]
+table-1635-999.csv,Operator,3,cate,5,[Metroline|Metroline]
+table-1635-999.csv,Operator,3,cate,0,[Metroline|Metroline]
+table-1635-999.csv,Operator,3,cate,3,[Abellio_(London_&_Surrey)|Abellio London]
+table-1635-999.csv,Operator,3,cate,13,[Abellio_(London_&_Surrey)|Abellio London]
+table-0808-604.csv,Country,2,cate,25,[Switzerland|Switzerland]
+table-0808-604.csv,Country,2,cate,5,[United_States|United States]
+table-0808-604.csv,Country,2,cate,11,[United_Kingdom|United Kingdom]
+table-0808-604.csv,Country,2,cate,17,[New_Zealand|New Zealand]
+table-0808-604.csv,Country,2,cate,0,[Germany|Germany]
+table-0120-632.csv,Country,0,cate,23,The Netherlands
+table-0120-632.csv,Country,0,cate,6,France
+table-0120-632.csv,Country,0,cate,9,South Korea
+table-0120-632.csv,Country,0,cate,22,Thailand
+table-0120-632.csv,Country,0,cate,25,United Arab Emirates
+table-0874-234.csv,Director,2,cate,9,[D._W._Griffith|D. W. Griffith]
+table-0874-234.csv,Director,2,cate,4,[Luis_Buñuel|Luis Buñuel]
+table-0874-234.csv,Director,2,cate,2,[James_Whale|James Whale]
+table-0874-234.csv,Director,2,cate,1,[Orson_Welles|Orson Welles]
+table-0874-234.csv,Director,2,cate,3,[Luis_Buñuel|Luis Buñuel]
+table-1359-116.csv,Location,1,cate,14,"[Albemarle,_North_Carolina|Albemarle]"
+table-1359-116.csv,Location,1,cate,31,"[Spout_Springs,_North_Carolina|Spout Springs]"
+table-1359-116.csv,Location,1,cate,53,
+table-1359-116.csv,Location,1,cate,28,"[Cameron,_North_Carolina|Cameron]"
+table-1359-116.csv,Location,1,cate,19,"[Troy,_North_Carolina|Troy]"
+table-0088-440.csv,Country,2,cate,3,[Colombia|Colombia]
+table-0088-440.csv,Country,2,cate,2,[Chile|Chile]
+table-0088-440.csv,Country,2,cate,4,[Argentina|Argentina]
+table-0088-440.csv,Country,2,cate,1,[Brazil|Brazil]
+table-0088-440.csv,Country,2,cate,0,[Brazil|Brazil]
+table-1004-604.csv,[Albi|Albi],1,cate,27,[Puycelci|Puycelci]
+table-1004-604.csv,[Albi|Albi],1,cate,17,[Le_Verdier|Le Verdier]
+table-1004-604.csv,[Albi|Albi],1,cate,11,"[Grazac,_Tarn|Grazac]"
+table-1004-604.csv,[Albi|Albi],1,cate,37,[Taïx|Taïx]
+table-1004-604.csv,[Albi|Albi],1,cate,8,[Curvalle|Curvalle]
+table-1037-428.csv,Author,3,cate,84,[David_Brin|David Brin]
+table-1037-428.csv,Author,3,cate,23,[Terry_Pratchett|Terry Pratchett]
+table-1037-428.csv,Author,3,cate,16,[R._A._Salvatore|R. A. Salvatore]
+table-1037-428.csv,Author,3,cate,81,[Philip_José_Farmer|Philip Jose Farmer]
+table-1037-428.csv,Author,3,cate,78,[Lloyd_Alexander|Lloyd Alexander]
+table-0366-424.csv,Town,1,cate,5,"[Chicago_Heights,_Illinois|Chicago Heights]"
+table-0366-424.csv,Town,1,cate,8,"[Niles,_Illinois|Niles]"
+table-0366-424.csv,Town,1,cate,4,"[Joliet,_Illinois|Joliet]"
+table-0366-424.csv,Town,1,cate,3,"[Oak_Park,_Illinois|Oak Park]"
+table-0366-424.csv,Town,1,cate,7,"[La_Grange_Park,_Illinois|La Grange Park]"
+table-0265-741.csv,Nation,1,cate,31,[Japan|Japan]
+table-0265-741.csv,Nation,1,cate,0,[Soviet_Union|USSR]
+table-0265-741.csv,Nation,1,cate,36,[China|China]
+table-0265-741.csv,Nation,1,cate,29,[China|China]
+table-0265-741.csv,Nation,1,cate,8,[Vietnam|Vietnam]
+table-0137-367.csv,Film,2,cate,4,[Body_Double|Body Double]
+table-0137-367.csv,Film,2,cate,1,[Reds_(film)|Reds]
+table-0137-367.csv,Film,2,cate,6,[Hannah_and_Her_Sisters|Hannah and Her Sisters]
+table-0137-367.csv,Film,2,cate,5,[Prizzi's_Honor|Prizzi's Honor]
+table-0137-367.csv,Film,2,cate,0,[Melvin_and_Howard|Melvin and Howard]
+table-0920-402.csv,Music Director,3,cate,1,[Bharathwaj|Bharathwaj]
+table-0920-402.csv,Music Director,3,cate,23,[Yuvan_Shankar_Raja|Yuvan Shankar Raja]
+table-0920-402.csv,Music Director,3,cate,27,[G._V._Prakash_Kumar|G. V. Prakash Kumar]
+table-0920-402.csv,Music Director,3,cate,17,[Yuvan_Shankar_Raja|Yuvan Shankar Raja]
+table-0920-402.csv,Music Director,3,cate,38,Girissh G
+table-1592-92.csv,Publisher,1,text,59,[D4_Enterprise|D4 Enterprise]
+table-1592-92.csv,Publisher,1,text,38,[D4_Enterprise|D4 Enterprise]
+table-1592-92.csv,Publisher,1,text,71,[D4_Enterprise|D4 Enterprise]
+table-1592-92.csv,Publisher,1,text,16,[D4_Enterprise|D4 Enterprise]
+table-1592-92.csv,Publisher,1,text,5,[D4_Enterprise|D4 Enterprise]
+table-0322-137.csv,Airport,2,cate,6,[Punta_Gorda_Airport_(Florida)|Punta Gorda (PGD)]
+table-0322-137.csv,Airport,2,cate,4,[Dallas/Fort_Worth_International_Airport|Dallas/Fort Worth International (DFW)]
+table-0322-137.csv,Airport,2,cate,9,[Orlando_International_Airport|Orlando International (MCO)]
+table-0322-137.csv,Airport,2,cate,1,[Charlotte_Douglas_International_Airport|Charlotte/Douglass International (CLT)]
+table-0322-137.csv,Airport,2,cate,7,[St._Pete–Clearwater_International_Airport|St. Petersburg/Clearwater (PIE)]
+table-0376-574.csv,Category,2,cate,0,[Bombardier_Innovia_Metro|ICTS]
+table-0376-574.csv,Category,2,cate,3,[Light_rail|Light rail]
+table-0376-574.csv,Category,2,cate,4,[Bombardier_Innovia_Metro|ICTS]
+table-0376-574.csv,Category,2,cate,2,[Light_rail|Light rail]
+table-0376-574.csv,Category,2,cate,5,[Diesel_engine|Diesel]
+table-0452-576.csv,Platform,1,cate,12,[OS_X|Mac OS X]
+table-0452-576.csv,Platform,1,cate,24,[Microsoft_Windows|Microsoft_Windows]
+table-0452-576.csv,Platform,1,cate,16,[Microsoft_Windows|Microsoft_Windows]
+table-0452-576.csv,Platform,1,cate,14,[OS_X|Mac OS X]
+table-0452-576.csv,Platform,1,cate,8,[Microsoft_Windows|Microsoft_Windows]
+table-0443-726.csv,Party,2,cate,111,[Democratic_Party_(United_States)|D]
+table-0443-726.csv,Party,2,cate,151,[Democratic_Party_(United_States)|D]
+table-0443-726.csv,Party,2,cate,242,[Republican_Party_(United_States)|R]
+table-0443-726.csv,Party,2,cate,308,[Republican_Party_(United_States)|R]
+table-0443-726.csv,Party,2,cate,10,[Democratic_Party_(United_States)|D]
+table-0868-168.csv,Director(s),1,cate,4,[Jason_Reitman|Jason Reitman]
+table-0868-168.csv,Director(s),1,cate,10,[Andrew_Stanton|Andrew Stanton]
+table-0868-168.csv,Director(s),1,cate,1,[Paul_Thomas_Anderson|Paul Thomas Anderson]
+table-0868-168.csv,Director(s),1,cate,0,[Coen_brothers|Joen Coen &amp; Ethan Coen]
+table-0868-168.csv,Director(s),1,cate,2,[Tim_Burton|Tim Burton]
+table-0301-239.csv,Type,1,cate,9,Man-Portable Air Defense System
+table-0301-239.csv,Type,1,cate,5,Man-Portable Air Defense System
+table-0301-239.csv,Type,1,cate,6,Man-Portable Air Defense System
+table-0301-239.csv,Type,1,cate,10,35mm Towed Anti-Aircraft Gun
+table-0301-239.csv,Type,1,cate,2,30mm Self-Propelled Anti-Aircraft Gun
+table-0079-242.csv,Network,1,cate,12,[Wide_World_of_Sports_(U.S._TV_series)|ABC's WWOS]
+table-0079-242.csv,Network,1,cate,9,[Wide_World_of_Sports_(U.S._TV_series)|ABC's WWOS]
+table-0079-242.csv,Network,1,cate,4,[Wide_World_of_Sports_(U.S._TV_series)|ABC's WWOS]
+table-0079-242.csv,Network,1,cate,2,[Wide_World_of_Sports_(U.S._TV_series)|ABC's WWOS]
+table-0079-242.csv,Network,1,cate,13,[Wide_World_of_Sports_(U.S._TV_series)|ABC's WWOS]
+table-0855-541.csv,Drama,2,cate,14,[House_of_Harmony_and_Vengeance|House of Harmony and Vengeance]
+table-0855-541.csv,Drama,2,cate,7,[Ghetto_Justice|Ghetto Justice]
+table-0855-541.csv,Drama,2,cate,5,[No_Regrets_(TV_series)|No Regrets]
+table-0855-541.csv,Drama,2,cate,13,[The_Hippocratic_Crush|The Hippocratic Crush]
+table-0855-541.csv,Drama,2,cate,1,[The_Mysteries_of_Love|The Mysteries of Love]
+table-1351-812.csv,Party,2,cate,1,[Democratic-Republican_Party|Democratic- Republican]
+table-1351-812.csv,Party,2,cate,51,[Democratic_Party_(United_States)|Democratic]
+table-1351-812.csv,Party,2,cate,22,[Republican_Party_(United_States)|Republican]
+table-1351-812.csv,Party,2,cate,42,[Democratic_Party_(United_States)|Democratic]
+table-1351-812.csv,Party,2,cate,33,[Democratic_Party_(United_States)|Democratic]
+table-1547-236.csv,Champion,1,cate,19,[Wayne_Ferreira|Wayne Ferreira]
+table-1547-236.csv,Champion,1,cate,1,[Juan_Martín_del_Potro|Juan Martín del Potro]
+table-1547-236.csv,Champion,1,cate,3,[Roger_Federer|Roger Federer]
+table-1547-236.csv,Champion,1,cate,8,[Fernando_González|Fernando González]
+table-1547-236.csv,Champion,1,cate,7,[Roger_Federer|Roger Federer]
+table-0962-374.csv,Birth date,2,cate,0,14 January 1979 (age35)
+table-0962-374.csv,Birth date,2,cate,9,2 February 1989 (age24)
+table-0962-374.csv,Birth date,2,cate,5,2 January 1986 (age28)
+table-0962-374.csv,Birth date,2,cate,4,25 January 1985 (age29)
+table-0962-374.csv,Birth date,2,cate,10,7 October 1983 (age30)
+table-0550-442.csv,Year,0,num,38,2006
+table-0550-442.csv,Year,0,num,37,2005
+table-0550-442.csv,Year,0,num,43,2006
+table-0550-442.csv,Year,0,num,6,2000
+table-0550-442.csv,Year,0,num,3,2000
+table-0872-377.csv,Release,1,cate,0,"March 16, 2009"
+table-0872-377.csv,Release,1,cate,5,"February 25, 2011"
+table-0872-377.csv,Release,1,cate,1,"July 6, 2009"
+table-0872-377.csv,Release,1,cate,3,"May 14, 2010"
+table-0872-377.csv,Release,1,cate,2,"October 27, 2009"
+table-1211-842.csv,Description,5,cate,0,Listed as one of the most unique churches in the world.
+table-1211-842.csv,Description,5,cate,5,Classical Revival
+table-1211-842.csv,Description,5,cate,10,Renaissance
+table-1211-842.csv,Description,5,cate,12,Polish Cathedral Style
+table-1211-842.csv,Description,5,cate,15,Only country parish in the Archdiocese of Chicago
+table-0091-59.csv,Date of Birth,2,cate,1,1 March 1980
+table-0091-59.csv,Date of Birth,2,cate,10,16 April 1963
+table-0091-59.csv,Date of Birth,2,cate,5,21 November 1976
+table-0091-59.csv,Date of Birth,2,cate,7,22 March 1971
+table-0091-59.csv,Date of Birth,2,cate,8,23 September 1971
+table-1385-350.csv,Established,2,cate,5,"1960, January 19"
+table-1385-350.csv,Established,2,cate,57,"2000, December 1"
+table-1385-350.csv,Established,2,cate,13,"1955, November 22"
+table-1385-350.csv,Established,2,cate,54,"1932, November 21"
+table-1385-350.csv,Established,2,cate,28,"1965, July 8"
+table-1033-735.csv,Year,0,cate,2,1995
+table-1033-735.csv,Year,0,cate,10,1998
+table-1033-735.csv,Year,0,cate,3,1996
+table-1033-735.csv,Year,0,cate,7,1996
+table-1033-735.csv,Year,0,cate,21,2012
+table-0278-605.csv,Birth date,3,cate,9,6 June 1874
+table-0278-605.csv,Birth date,3,cate,5,8 January 1860
+table-0278-605.csv,Birth date,3,cate,12,23 March 1912
+table-0278-605.csv,Birth date,3,cate,11,1 September 1900
+table-0278-605.csv,Birth date,3,cate,10,13 February 1912
+table-0755-531.csv,Birth date,2,cate,9,17 February 1981 (age32)
+table-0755-531.csv,Birth date,2,cate,0,11 June 1985 (age28)
+table-0755-531.csv,Birth date,2,cate,10,12 April 1983 (age30)
+table-0755-531.csv,Birth date,2,cate,19,22 July 1981 (age32)
+table-0755-531.csv,Birth date,2,cate,3,3 November 1984 (age29)
+table-0855-495.csv,Release Date,0,cate,16,"May 10, 1991"
+table-0855-495.csv,Release Date,0,cate,53,"September 24, 1999"
+table-0855-495.csv,Release Date,0,cate,18,"August 16, 1991"
+table-0855-495.csv,Release Date,0,cate,34,"September 16, 1994"
+table-0855-495.csv,Release Date,0,cate,24,"March 26, 1993"
+table-0371-683.csv,U.S./Canada Release Date,0,cate,39,September 25
+table-0371-683.csv,U.S./Canada Release Date,0,cate,11,March 4
+table-0371-683.csv,U.S./Canada Release Date,0,cate,18,March 27
+table-0371-683.csv,U.S./Canada Release Date,0,cate,31,July 3
+table-0371-683.csv,U.S./Canada Release Date,0,cate,38,September 16
+table-1247-960.csv,Release date,4,text,414,1994/05/11
+table-1247-960.csv,Release date,4,text,420,1994/06/24
+table-1247-960.csv,Release date,4,text,656,1991
+table-1247-960.csv,Release date,4,text,747,1994
+table-1247-960.csv,Release date,4,text,84,1992/03/12
+table-0147-453.csv,Arrival date,4,cate,8,2047-07 July 2047
+table-0147-453.csv,Arrival date,4,cate,17,2049-05 May 2049
+table-0147-453.csv,Arrival date,4,cate,6,2051-04 April 2051
+table-0147-453.csv,Arrival date,4,cate,19,2029 2029
+table-0147-453.csv,Arrival date,4,cate,9,2057-12 December 2057
+table-0504-762.csv,Year Founded,3,num,5,1914
+table-0504-762.csv,Year Founded,3,num,6,1920
+table-0504-762.csv,Year Founded,3,num,7,1922
+table-0504-762.csv,Year Founded,3,num,2,1911
+table-0504-762.csv,Year Founded,3,num,4,1913
+table-0012-523.csv,Last ship commissioned,3,num,4,1980.0
+table-0012-523.csv,Last ship commissioned,3,num,0,1954.0
+table-0012-523.csv,Last ship commissioned,3,num,5,1982.0
+table-0012-523.csv,Last ship commissioned,3,num,2,1961.0
+table-0005-645.csv,Carries,1,cate,19,[Youghiogheny_River_Trail|Youghiogheny River Trail]
+table-0005-645.csv,Carries,1,cate,7,[Interstate_70|I-70]
+table-0005-645.csv,Carries,1,cate,1,[Allegheny_County_belt_system|Yellow Belt]
+table-0005-645.csv,Carries,1,cate,18,[Youghiogheny_River_Trail|Youghiogheny River Trail]
+table-0005-645.csv,Carries,1,cate,8,[Pennsylvania_Route_981|PA 981]
+table-0194-244.csv,Start,1,cate,4,[Golders_Green|Golders Green]
+table-0194-244.csv,Start,1,cate,3,[Wembley|Wembley]
+table-0194-244.csv,Start,1,cate,5,[Willesden|Willesden]
+table-0194-244.csv,Start,1,cate,1,[Brent_Cross|Brent Cross]
+table-0194-244.csv,Start,1,cate,0,[Golders_Green|Golders Green]
+table-1597-849.csv,Duration,3,cate,3,4 years
+table-1597-849.csv,Duration,3,cate,0,4 years
+table-1597-849.csv,Duration,3,cate,9,5 years
+table-1597-849.csv,Duration,3,cate,7,6 years
+table-1597-849.csv,Duration,3,cate,5,4 years
+table-0514-664.csv,Years,1,cate,10,1959-1963
+table-0514-664.csv,Years,1,cate,13,1971-1975
+table-0514-664.csv,Years,1,cate,16,1981-1985
+table-0514-664.csv,Years,1,cate,3,1934–1937
+table-0514-664.csv,Years,1,cate,4,1937–1943
+table-1426-354.csv,Death,4,cate,3,[Lausanne|Lausanne]
+table-1426-354.csv,Death,4,cate,0,10 February 1855 Turin aged 32
+table-1426-354.csv,Death,4,cate,4,[São_Paulo|São Paulo]
+table-1426-354.csv,Death,4,cate,1,15 April 1931 Turin aged 77
+table-1383-401.csv,Years,3,cate,22,1915–1935
+table-1383-401.csv,Years,3,cate,6,1907–1909
+table-1383-401.csv,Years,3,cate,103,1995–2003
+table-1383-401.csv,Years,3,cate,91,1977–1991
+table-1383-401.csv,Years,3,cate,53,1935–1937
+table-0390-922.csv,Birth,1,text,74,1951
+table-0390-922.csv,Birth,1,text,111,1950
+table-0390-922.csv,Birth,1,text,201,1962
+table-0390-922.csv,Birth,1,text,292,1974
+table-0390-922.csv,Birth,1,text,142,1961
+table-1426-354.csv,Death,4,cate,2,[Bordighera|Bordighera]
+table-1385-350.csv,Established,2,cate,53,
+table-1385-350.csv,Established,2,cate,18,"1970, December 15"
+table-1385-350.csv,Established,2,cate,15,
+table-1385-350.csv,Established,2,cate,42,"1954, June 29"
+table-1385-350.csv,Established,2,cate,4,"1959, July 27"
+table-1048-131.csv,Established,1,num,3,1887
+table-1048-131.csv,Established,1,num,1,1958
+table-1048-131.csv,Established,1,num,2,1974
+table-1048-131.csv,Established,1,num,0,1952
+table-1048-131.csv,Established,1,num,5,1887
+table-0450-423.csv,Days,2,cate,6,[Day|day]
+table-0450-423.csv,Days,2,cate,9,[Day|day]
+table-0450-423.csv,Days,2,cate,7,[Day|day]
+table-0450-423.csv,Days,2,cate,11,[Day|day]
+table-0450-423.csv,Days,2,cate,10,[Day|day]
+table-1108-811.csv,Quantity,1,num,22,20
+table-1108-811.csv,Quantity,1,num,8,1
+table-1108-811.csv,Quantity,1,num,23,8
+table-1108-811.csv,Quantity,1,num,14,27
+table-1108-811.csv,Quantity,1,num,3,17
+table-0090-563.csv,Capacity,4,cate,10,"19,891"
+table-0090-563.csv,Capacity,4,cate,1,"41,159"
+table-0090-563.csv,Capacity,4,cate,7,"42,922"
+table-0090-563.csv,Capacity,4,cate,9,"33,597"
+table-0090-563.csv,Capacity,4,cate,2,"20,119"
+table-0034-464.csv,Capacity,3,cate,9,"27,543"
+table-0034-464.csv,Capacity,3,cate,10,"10,000"
+table-0034-464.csv,Capacity,3,cate,11,"5,000"
+table-0034-464.csv,Capacity,3,cate,14,"5,000"
+table-0034-464.csv,Capacity,3,cate,5,"12,750"
+table-0304-857.csv,Capacity,3,cate,8,"20,000"
+table-0304-857.csv,Capacity,3,cate,3,"24,500"
+table-0304-857.csv,Capacity,3,cate,2,"8,000"
+table-0304-857.csv,Capacity,3,cate,10,"25,000"
+table-0304-857.csv,Capacity,3,cate,13,"10,000"
+table-0570-812.csv,Capacity,2,cate,10,"28,500"
+table-0570-812.csv,Capacity,2,cate,4,"33,000"
+table-0570-812.csv,Capacity,2,cate,12,"21,000"
+table-0570-812.csv,Capacity,2,cate,2,"18,000"
+table-0570-812.csv,Capacity,2,cate,0,"46,912"
+table-1603-378.csv,Capacity,1,cate,7,"5,200"
+table-1603-378.csv,Capacity,1,cate,23,500
+table-1603-378.csv,Capacity,1,cate,22,"1,400"
+table-1603-378.csv,Capacity,1,cate,20,"2,000"
+table-1603-378.csv,Capacity,1,cate,19,"2,500"
+table-1525-919.csv,Frequency,0,cate,1,92.3 FM
+table-1525-919.csv,Frequency,0,cate,4,96.3 FM
+table-1525-919.csv,Frequency,0,cate,7,101.1 FM
+table-1525-919.csv,Frequency,0,cate,0,89.9 FM
+table-1525-919.csv,Frequency,0,cate,3,94.7 FM
+table-0245-976.csv,Frequency,1,cate,158,91.1 FM
+table-0245-976.csv,Frequency,1,cate,119,99.5 FM
+table-0245-976.csv,Frequency,1,cate,64,101.3 FM
+table-0245-976.csv,Frequency,1,cate,15,105.9 FM
+table-0245-976.csv,Frequency,1,cate,131,97.3 FM
+table-1058-109.csv,[Frequency|Frequency],2,cate,0,98.7 FM
+table-1058-109.csv,[Frequency|Frequency],2,cate,10,103.5
+table-1058-109.csv,[Frequency|Frequency],2,cate,6,100.7 FM
+table-1058-109.csv,[Frequency|Frequency],2,cate,2,101.1 FM
+table-1058-109.csv,[Frequency|Frequency],2,cate,8,100.5 FM
+table-0468-553.csv,Population,4,text,110,769
+table-0468-553.csv,Population,4,text,142,"21,544"
+table-0468-553.csv,Population,4,text,136,866
+table-0468-553.csv,Population,4,text,109,194
+table-0468-553.csv,Population,4,text,140,221
+table-0866-915.csv,Population,3,cate,2,438
+table-0866-915.csv,Population,3,cate,5,"3,270"
+table-0866-915.csv,Population,3,cate,4,"4,465"
+table-0866-915.csv,Population,3,cate,3,"6,409"
+table-0866-915.csv,Population,3,cate,0,"3,843"
+table-0531-600.csv,Inhabitants,1,cate,7,324
+table-0531-600.csv,Inhabitants,1,cate,10,288
+table-0531-600.csv,Inhabitants,1,cate,0,254
+table-0531-600.csv,Inhabitants,1,cate,4,610
+table-0531-600.csv,Inhabitants,1,cate,1,573
+table-1500-419.csv,Area,3,text,90,"34,000 m²"
+table-1500-419.csv,Area,3,text,95,31700 m²
+table-1500-419.csv,Area,3,text,17,"97,000 m²"
+table-1500-419.csv,Area,3,text,162,"11,136 m²"
+table-1500-419.csv,Area,3,text,54,"57,600 m²"
+table-0678-839.csv,[Area|Area],7,cate,0,"2,552.60"
+table-0678-839.csv,[Area|Area],7,cate,4,"4,047.07"
+table-0678-839.csv,[Area|Area],7,cate,1,"2,320.07"
+table-0678-839.csv,[Area|Area],7,cate,3,"1,511.50"
+table-0678-839.csv,[Area|Area],7,cate,2,"5,481.60"
+table-1073-977.csv,Length,2,cate,2,170.08 m
+table-1073-977.csv,Length,2,cate,1,2164.08 m
+table-1073-977.csv,Length,2,cate,4,[Kill_Van_Kull|Kill Van Kull]
+table-1073-977.csv,Length,2,cate,5,1761.74 m
+table-1073-977.csv,Length,2,cate,3,3093 m
+table-0198-809.csv,Height,4,cate,11,"5' 11"""
+table-0198-809.csv,Height,4,cate,6,"6' 0"""
+table-0198-809.csv,Height,4,cate,7,"6' 1/2"""
+table-0198-809.csv,Height,4,cate,13,"5' 7"""
+table-0198-809.csv,Height,4,cate,12,"5' 10"""
+table-1607-808.csv,[Kilometre|km],2,cate,7,681.64
+table-1607-808.csv,[Kilometre|km],2,cate,2,601.11
+table-1607-808.csv,[Kilometre|km],2,cate,0,248.82
+table-1607-808.csv,[Kilometre|km],2,cate,3,285.11
+table-1607-808.csv,[Kilometre|km],2,cate,6,732.70
+table-0519-180.csv,Height,3,num,0,1.8
+table-0519-180.csv,Height,3,num,6,1.73
+table-0519-180.csv,Height,3,num,15,1.72
+table-0519-180.csv,Height,3,num,4,1.83
+table-0519-180.csv,Height,3,num,9,1.76
+table-1057-467.csv,[Frequency|Frequency],2,cate,11,88.1
+table-1057-467.csv,[Frequency|Frequency],2,cate,9,102.5
+table-1057-467.csv,[Frequency|Frequency],2,cate,16,1240 AM*
+table-1057-467.csv,[Frequency|Frequency],2,cate,4,99.3
+table-1057-467.csv,[Frequency|Frequency],2,cate,5,1460 AM*
+table-0200-394.csv,Number of vehicles,5,cate,6,30
+table-0200-394.csv,Number of vehicles,5,cate,5,27
+table-0200-394.csv,Number of vehicles,5,cate,1,69
+table-0200-394.csv,Number of vehicles,5,cate,2,24
+table-0200-394.csv,Number of vehicles,5,cate,0,124
+table-1052-399.csv,Population,1,cate,0,"70,680"
+table-1052-399.csv,Population,1,cate,2,947
+table-1052-399.csv,Population,1,cate,4,54
+table-1052-399.csv,Population,1,cate,3,378
+table-1052-399.csv,Population,1,cate,1,"2,799"
+table-0378-790.csv,Capacity,1,cate,7,"2,000"
+table-0378-790.csv,Capacity,1,cate,13,"16,500"
+table-0378-790.csv,Capacity,1,cate,14,"2,000"
+table-0378-790.csv,Capacity,1,cate,6,"24,000"
+table-0378-790.csv,Capacity,1,cate,1,"31,000"
+table-0298-73.csv,Budget,3,cate,50,$94 million
+table-0298-73.csv,Budget,3,cate,110,
+table-0298-73.csv,Budget,3,cate,70,$30 million
+table-0298-73.csv,Budget,3,cate,61,"$57,552,641"
+table-0298-73.csv,Budget,3,cate,91,
+table-1431-19.csv,Budget,5,cate,0,"$1,200,000–1,400,000"
+table-1431-19.csv,Budget,5,cate,2,"$11,200,000"
+table-1431-19.csv,Budget,5,cate,4,"$11,300,000"
+table-1431-19.csv,Budget,5,cate,3,"$10,800,000"
+table-1431-19.csv,Budget,5,cate,1,"$4,600,000"
+table-0871-527.csv,[Airline_codes|ICAO],2,cate,7,ROT
+table-0871-527.csv,[Airline_codes|ICAO],2,cate,3,JOR
+table-0871-527.csv,[Airline_codes|ICAO],2,cate,9,TIH
+table-0871-527.csv,[Airline_codes|ICAO],2,cate,0,BUR
+table-0871-527.csv,[Airline_codes|ICAO],2,cate,5,RDP
+table-1093-977.csv,Gender,2,cate,17,female
+table-1093-977.csv,Gender,2,cate,6,male
+table-1093-977.csv,Gender,2,cate,0,male
+table-1093-977.csv,Gender,2,cate,1,male
+table-1093-977.csv,Gender,2,cate,8,male
+table-1615-457.csv,Postal code,2,num,4,77920
+table-1615-457.csv,Postal code,2,num,0,77210
+table-1615-457.csv,Postal code,2,num,1,77590
+table-1615-457.csv,Postal code,2,num,2,77300
+table-1615-457.csv,Postal code,2,num,3,77850
+table-0715-242.csv,Weight,1,cate,10,Light-Heavyweight
+table-0715-242.csv,Weight,1,cate,6,Super-Middleweight
+table-0715-242.csv,Weight,1,cate,4,Featherweight
+table-0715-242.csv,Weight,1,cate,2,Flyweight
+table-0715-242.csv,Weight,1,cate,3,Featherweight
+table-1222-587.csv,ISBN,3,cate,29,ISBN 0-7851-3455-7
+table-1222-587.csv,ISBN,3,cate,7,ISBN 0-7851-2506-X
+table-1222-587.csv,ISBN,3,cate,2,ISBN 0-7851-2834-4
+table-1222-587.csv,ISBN,3,cate,8,Category:Articles with invalid ISBNs
+table-1222-587.csv,ISBN,3,cate,22,ISBN 0-7851-2258-3
+table-0677-841.csv,Codes (IATA/ICAO),2,cate,20,DEN/KDEN
+table-0677-841.csv,Codes (IATA/ICAO),2,cate,6,BFS/EGAA
+table-0677-841.csv,Codes (IATA/ICAO),2,cate,85,SIN/WSSS
+table-0677-841.csv,Codes (IATA/ICAO),2,cate,21,DUB/EIDW
+table-0677-841.csv,Codes (IATA/ICAO),2,cate,52,LYS/LFLL
+table-1145-659.csv,Description,2,cate,3,[Salmon|salmon]
+table-1145-659.csv,Description,2,cate,12,A fermented non-alcoholic beverage made from black or regular rye bread.
+table-1145-659.csv,Description,2,cate,2,[Roe|roe]
+table-1145-659.csv,Description,2,cate,31,[Pastry|pastry]
+table-1145-659.csv,Description,2,cate,21,[Bun|bun]
+table-0863-210.csv,Category,1,cate,6,News
+table-0863-210.csv,Category,1,cate,8,[Social_networking_service|Social networking]
+table-0863-210.csv,Category,1,cate,9,[Microblogging|Microblogging]
+table-0863-210.csv,Category,1,cate,10,Search and advertising
+table-0863-210.csv,Category,1,cate,0,News
+table-1417-692.csv,Degree(s),2,cate,13,[Bachelor_of_Arts|B.A.]
+table-1417-692.csv,Degree(s),2,cate,3,[Bachelor_of_Arts|B.A.]
+table-1417-692.csv,Degree(s),2,cate,18,[Bachelor_of_Arts|B.A.]
+table-1417-692.csv,Degree(s),2,cate,4,[Bachelor_of_Arts|B.A.]
+table-1417-692.csv,Degree(s),2,cate,14,[Bachelor_of_Arts|B.A.]
+table-0084-426.csv,District,2,text,4,[California's_5th_congressional_district|California's 5th]
+table-0084-426.csv,District,2,text,10,[Arkansas's_2nd_congressional_district|Arkansas's 2nd]
+table-0084-426.csv,District,2,text,246,[Wisconsin's_4th_congressional_district|Wisconsin's 4th]
+table-0084-426.csv,District,2,text,136,[New_York's_13th_congressional_district|New York's 13th]
+table-0084-426.csv,District,2,text,195,[Texas's_12th_congressional_district|Texas's 12th]
+table-0305-533.csv,Role,2,cate,19,[Abraham_Lincoln|Abraham Lincoln]
+table-0305-533.csv,Role,2,cate,4,Cecil Vyse
+table-0305-533.csv,Role,2,cate,17,Daniel Plainview
+table-0305-533.csv,Role,2,cate,0,Child vandal (Uncredited)
+table-0305-533.csv,Role,2,cate,1,Colin
+table-0692-716.csv,Status,2,text,10,Private
+table-0692-716.csv,Status,2,text,2,Private
+table-0692-716.csv,Status,2,text,3,Private
+table-0692-716.csv,Status,2,text,8,Private
+table-0692-716.csv,Status,2,text,12,Private
+table-1036-570.csv,Notes,6,cate,4,-
+table-1036-570.csv,Notes,6,cate,2,[Pvpj_1110|Pvpj 1110]
+table-1036-570.csv,Notes,6,cate,0,120mm caliber mortar
+table-1036-570.csv,Notes,6,cate,3,[BGM-71_TOW|Rbs 55]
+table-1036-570.csv,Notes,6,cate,7,[RBS_70|RBS 70]
+table-0181-454.csv,Current status,5,cate,1,Global O&O
+table-0181-454.csv,Current status,5,cate,8,Global O&O
+table-0181-454.csv,Current status,5,cate,7,[E!_(Canadian_TV_system)|CH / E!]
+table-0181-454.csv,Current status,5,cate,3,Global O&O
+table-0181-454.csv,Current status,5,cate,6,[City_(TV_network)|City_(TV_network)]
+table-0012-523.csv,Last ship commissioned,3,num,7,
+table-0012-523.csv,Last ship commissioned,3,num,3,1964.0
+table-0012-523.csv,Last ship commissioned,3,num,6,
+table-0428-120.csv,Notability,3,text,65,royalty: Princess of Greece and Denmark
+table-0428-120.csv,Notability,3,text,377,[NASCAR|NASCAR]
+table-0428-120.csv,Notability,3,text,203,Chief Minister of Arunachal Pradesh
+table-0428-120.csv,Notability,3,text,209,Politician
+table-0428-120.csv,Notability,3,text,108,investigator of human rights and an expert on the Rwandan genocide
+table-1358-390.csv,Description,2,cate,4,[List_of_Alberta_provincial_highways|Highway 748]
+table-1358-390.csv,Description,2,cate,10,
+table-1358-390.csv,Description,2,cate,1,[Canadian_National_Railway|Canadian National Railway]
+table-1358-390.csv,Description,2,cate,7,[Alberta_Highway_43|Highway 43]
+table-1358-390.csv,Description,2,cate,2,"[Peers,_Alberta|Peers]"
+table-1211-479.csv,Description,5,cate,1,
+table-1211-479.csv,Description,5,cate,13,
+table-1211-479.csv,Description,5,cate,11,
+table-1211-479.csv,Description,5,cate,15,
+table-1211-479.csv,Description,5,cate,14,
+table-0692-716.csv,Status,2,text,9,Private
+table-0692-716.csv,Status,2,text,11,Private
+table-0692-716.csv,Status,2,text,5,Private
+table-0692-716.csv,Status,2,text,1,Private
+table-0692-716.csv,Status,2,text,0,Private
+table-1398-532.csv,Role,2,cate,13,Angeline
+table-1398-532.csv,Role,2,cate,14,Regina Krumm
+table-1398-532.csv,Role,2,cate,28,Pre-title screen credits Narrator
+table-1398-532.csv,Role,2,cate,24,Dr. Mittag-Leffler
+table-1398-532.csv,Role,2,cate,16,Dr. Ann Cuthbert
+table-1152-407.csv,Role,1,cate,10,Ku Chiu-Yee (顧昭兒)
+table-1152-407.csv,Role,1,cate,1,Ku Ping-On (顧平安)
+table-1152-407.csv,Role,1,cate,3,Ku Man-Chai (顧萬齊)
+table-1152-407.csv,Role,1,cate,5,Luk Yin-Chun (陸燕珍)
+table-1152-407.csv,Role,1,cate,11,Ku Oi-Yee (顧愛兒)
+table-1615-750.csv,Type,4,cate,3,Improvised Explosive Device
+table-1615-750.csv,Type,4,cate,1,[Automatic_rifle|Automatic weapons]
+table-1615-750.csv,Type,4,cate,2,[Automatic_rifle|Automatic weapons]
+table-1615-750.csv,Type,4,cate,4,Improvised Explosive Device
+table-1615-750.csv,Type,4,cate,5,[Hand_grenade|Hand_grenade]
+table-0025-888.csv,IATA,2,cate,6,HFE
+table-0025-888.csv,IATA,2,cate,8,MFM
+table-0025-888.csv,IATA,2,cate,9,NKG
+table-0025-888.csv,IATA,2,cate,21,NRT
+table-0025-888.csv,IATA,2,cate,15,PVG
+table-1531-558.csv,Type,3,cate,3,[Ring_road|Beltway]
+table-1531-558.csv,Type,3,cate,5,[Ring_road|Beltway]
+table-1531-558.csv,Type,3,cate,4,[Spur_route|Spur]
+table-1531-558.csv,Type,3,cate,1,[Spur_route|Spur]
+table-1531-558.csv,Type,3,cate,0,[Business_route|Business loop]
+table-0329-901.csv,Role,1,cate,3,Ting Shiu-King (King Sir) (丁兆景)
+table-0329-901.csv,Role,1,cate,2,Tseung Yu-Bo (蔣如寶)
+table-0329-901.csv,Role,1,cate,4,Koo Ka-Chun (Janet) (顧家珍)
+table-0329-901.csv,Role,1,cate,8,Szeto Hiu-Sam(Queenie) (司徒曉心)
+table-0329-901.csv,Role,1,cate,6,Ting Shiu-Tim 丁兆添
+table-1221-923.csv,Director(s),2,cate,1,[Orson_Welles|Orson Welles]
+table-1221-923.csv,Director(s),2,cate,9,[Vittorio_De_Sica|Vittorio De Sica]
+table-1221-923.csv,Director(s),2,cate,0,[John_Ford|John Ford]
+table-1221-923.csv,Director(s),2,cate,7,[Charlie_Chaplin|Charlie Chaplin]
+table-1221-923.csv,Director(s),2,cate,6,[Laurence_Olivier|Laurence Olivier]
+table-1550-778.csv,Party,1,cate,16,[Republican_Party_(United_States)|Republican]
+table-1550-778.csv,Party,1,cate,15,[Democratic_Party_(United_States)|Democratic]
+table-1550-778.csv,Party,1,cate,3,[Republican_Party_(United_States)|Republican]
+table-1550-778.csv,Party,1,cate,13,[Republican_Party_(United_States)|Republican]
+table-1550-778.csv,Party,1,cate,7,[Democratic_Party_(United_States)|Democratic]
+table-1631-116.csv,Operator,3,cate,1,[Arriva_London|Arriva London]
+table-1631-116.csv,Operator,3,cate,5,[Metroline|Metroline]
+table-1631-116.csv,Operator,3,cate,0,[Arriva_London|Arriva London]
+table-1631-116.csv,Operator,3,cate,4,[Metroline|Metroline]
+table-1631-116.csv,Operator,3,cate,6,[Metroline|Metroline]
+table-0888-435.csv,Country,1,cate,4,[United_States_at_the_Olympics|United States]
+table-0888-435.csv,Country,1,cate,3,[United_States_at_the_Olympics|United States]
+table-0888-435.csv,Country,1,cate,9,[Brazil_at_the_Olympics|Brazil]
+table-0888-435.csv,Country,1,cate,14,[United_States_at_the_Olympics|United States]
+table-0888-435.csv,Country,1,cate,13,[United_States_at_the_Olympics|United States]
+table-1282-140.csv,Country,1,cate,1,Italy
+table-1282-140.csv,Country,1,cate,3,Germany
+table-1282-140.csv,Country,1,cate,4,Hungary
+table-1282-140.csv,Country,1,cate,2,Switzerland
+table-1282-140.csv,Country,1,cate,0,France
+table-0874-236.csv,Director,2,cate,4,[Sidney_Lumet|Sidney Lumet]
+table-0874-236.csv,Director,2,cate,10,[Francis_Ford_Coppola|Francis Ford Coppola]
+table-0874-236.csv,Director,2,cate,9,[Bruce_McDonald_(director)|Bruce McDonald]
+table-0874-236.csv,Director,2,cate,3,[Gavin_Hood|Gavin Hood]
+table-0470-996.csv,Location,1,cate,0,"[Levee_Township,_Pike_County,_Illinois|Levee Township]"
+table-0470-996.csv,Location,1,cate,4,"[Ellington_Township,_Adams_County,_Illinois|Ellington Township]"
+table-0470-996.csv,Location,1,cate,1,"[Fall_Creek_Township,_Adams_County,_Illinois|Fall Creek Township]"
+table-0470-996.csv,Location,1,cate,3,"[Quincy,_Illinois|Quincy]"
+table-0470-996.csv,Location,1,cate,2,"[Melrose_Township,_Adams_County,_Illinois|Melrose Township]"
+table-1038-464.csv,Country,0,cate,4,[Romania|Romania]
+table-1038-464.csv,Country,0,cate,1,[Colombia|Colombia]
+table-1038-464.csv,Country,0,cate,3,[United_Kingdom|United Kingdom]
+table-1038-464.csv,Country,0,cate,2,[Brazil|Brazil]
+table-1038-464.csv,Country,0,cate,0,[France|France]
+table-1003-948.csv,[Avessac|Avessac],1,cate,7,"[Nozay,_Loire-Atlantique|Nozay]"
+table-1003-948.csv,[Avessac|Avessac],1,cate,3,[Juigné-des-Moutiers|Juigné-des-Moutiers]
+table-1003-948.csv,[Avessac|Avessac],1,cate,2,[Guémené-Penfao|Guémené-Penfao]
+table-1003-948.csv,[Avessac|Avessac],1,cate,5,[Lusanger|Lusanger]
+table-1003-948.csv,[Avessac|Avessac],1,cate,6,[Mouais|Mouais]
+table-0517-758.csv,Author,2,cate,4,[J._R._R._Tolkien|J. R. R. Tolkien]
+table-0517-758.csv,Author,2,cate,0,[Isaac_Asimov|Isaac Asimov]
+table-0517-758.csv,Author,2,cate,2,[Robert_A._Heinlein|Robert A. Heinlein]
+table-0517-758.csv,Author,2,cate,1,[Edgar_Rice_Burroughs|Edgar Rice Burroughs]
+table-0517-758.csv,Author,2,cate,3,[E._E._Smith|E. E. Smith]
+table-1012-224.csv,Location,1,cate,3,"[Winona,_Minnesota|Winona]"
+table-1012-224.csv,Location,1,cate,2,"[Owatonna,_Minnesota|Owatonna]"
+table-1012-224.csv,Location,1,cate,5,"[Waseca,_Minnesota|Waseca]"
+table-1012-224.csv,Location,1,cate,1,"[Albert_Lea,_Minnesota|Albert Lea]"
+table-1012-224.csv,Location,1,cate,4,"[Austin,_Minnesota|Austin]"
+table-1164-445.csv,Nation,2,cate,4,[Italy|Italy]
+table-1164-445.csv,Nation,2,cate,12,[Greece|Greece]
+table-1164-445.csv,Nation,2,cate,9,[Czech_Republic|Czech Republic]
+table-1164-445.csv,Nation,2,cate,5,[Belarus|Belarus]
+table-1164-445.csv,Nation,2,cate,3,[Spain|Spain]
+table-0378-628.csv,Film,3,cate,6,[All_the_King's_Men_(1949_film)|All the King's Men]
+table-0378-628.csv,Film,3,cate,5,[Hamlet_(1948_film)|Hamlet]
+table-0378-628.csv,Film,3,cate,2,[The_Lost_Weekend_(film)|The Lost Weekend]
+table-0378-628.csv,Film,3,cate,0,[Watch_on_the_Rhine|Watch on the Rhine]
+table-0378-628.csv,Film,3,cate,4,[A_Double_Life|A Double Life]
+table-0148-655.csv,Label,2,cate,5,[Thump_Records|Thump]
+table-0148-655.csv,Label,2,cate,1,[Quality_Records|Quality]
+table-0148-655.csv,Label,2,cate,3,[Thump_Records|Thump]
+table-0148-655.csv,Label,2,cate,4,[Thump_Records|Thump]
+table-0148-655.csv,Label,2,cate,2,[Mercury_Records|Mercury]
+table-1454-8.csv,Publisher,2,cate,6,[DC_Comics|DC Comics]
+table-1454-8.csv,Publisher,2,cate,7,[Marvel_Comics|Marvel Comics]
+table-1454-8.csv,Publisher,2,cate,1,[Marvel_Comics|Marvel Comics]
+table-1454-8.csv,Publisher,2,cate,2,[Marvel_Comics|Marvel Comics]
+table-1454-8.csv,Publisher,2,cate,3,[WildStorm|WildStorm Productions]
+table-0356-460.csv,Carriers,3,cate,6,"American, Frontier, Southwest, United"
+table-0356-460.csv,Carriers,3,cate,8,"American, Delta, Southwest, United, US Airways"
+table-0356-460.csv,Carriers,3,cate,5,"American, Delta, Hawaiian, United"
+table-0356-460.csv,Carriers,3,cate,7,"AirTran, Delta, Southwest"
+table-0356-460.csv,Carriers,3,cate,9,"Alaska, Delta, United, Virgin America"
+table-0001-483.csv,Date opened,4,cate,7,21 June 1931
+table-0001-483.csv,Date opened,4,cate,9,5 July 1923
+table-0001-483.csv,Date opened,4,cate,2,5 July 1923
+table-0001-483.csv,Date opened,4,cate,0,5 July 1923
+table-0001-483.csv,Date opened,4,cate,4,1 July 1925
+table-0452-575.csv,Platform,2,cate,10,[Microsoft_Windows|Microsoft_Windows]
+table-0452-575.csv,Platform,2,cate,9,[Android_(operating_system)|Android]
+table-0452-575.csv,Platform,2,cate,5,[Microsoft_Windows|Microsoft_Windows]
+table-0452-575.csv,Platform,2,cate,1,[Android_(operating_system)|Android]
+table-0452-575.csv,Platform,2,cate,13,[Microsoft_Windows|Microsoft_Windows]
+table-0481-395.csv,Party,2,cate,10,[Liberal_Party_of_Australia|Liberal]
+table-0481-395.csv,Party,2,cate,11,[Australian_Labor_Party|Labor]
+table-0481-395.csv,Party,2,cate,14,[Liberal_Party_of_Australia|Liberal]
+table-0481-395.csv,Party,2,cate,1,[Australian_Labor_Party|Labor]
+table-0481-395.csv,Party,2,cate,12,[Independent_politician|Independent]
+table-0066-426.csv,Director(s),2,cate,7,[John_Huston|John Huston]
+table-0066-426.csv,Director(s),2,cate,2,[Sydney_Pollack|Sydney Pollack]
+table-0066-426.csv,Director(s),2,cate,4,[Jim_Jarmusch|Jim Jarmusch]
+table-0066-426.csv,Director(s),2,cate,8,[Philip_Kaufman|Philip Kaufman]
+table-0066-426.csv,Director(s),2,cate,5,[Akira_Kurosawa|Akira Kurosawa]
+table-1414-366.csv,Origin,3,cate,5,[Soviet_Union|Soviet Union]
+table-1414-366.csv,Origin,3,cate,1,[United_States|United States]
+table-1414-366.csv,Origin,3,cate,3,[Soviet_Union|Soviet Union]
+table-1414-366.csv,Origin,3,cate,6,[France|France]
+table-1414-366.csv,Origin,3,cate,4,[Sweden|Sweden]
+table-0079-244.csv,Network,1,cate,0,[Fox_NASCAR|Fox]
+table-0079-244.csv,Network,1,cate,1,[NASCAR_on_NBC|NBC]
+table-0079-244.csv,Network,1,cate,4,[Fox_NASCAR|Fox]
+table-0079-244.csv,Network,1,cate,3,[NASCAR_on_NBC|NBC]
+table-0079-244.csv,Network,1,cate,2,[Fox_NASCAR|Fox]
+table-0011-362.csv,Network,2,cate,3,[Munhwa_Broadcasting_Corporation|MBC]
+table-0011-362.csv,Network,2,cate,2,[Mnet_(TV_channel)|Mnet]
+table-0011-362.csv,Network,2,cate,4,[Korean_Broadcasting_System|KBS]
+table-0011-362.csv,Network,2,cate,0,[Munhwa_Broadcasting_Corporation|MBC]
+table-0011-362.csv,Network,2,cate,1,[Munhwa_Broadcasting_Corporation|MBC]
+table-1098-392.csv,State,2,cate,5,[Wyoming|Wyoming]
+table-1098-392.csv,State,2,cate,6,[Nebraska|Nebraska]
+table-1098-392.csv,State,2,cate,2,Delaware
+table-1098-392.csv,State,2,cate,8,[Oklahoma|Oklahoma]
+table-1098-392.csv,State,2,cate,11,[Alabama|Alabama]
+table-0275-18.csv,Runner-up,2,cate,8,[Victor_Amaya|Victor Amaya]
+table-0275-18.csv,Runner-up,2,cate,1,[Arthur_Ashe|Arthur Ashe]
+table-0275-18.csv,Runner-up,2,cate,2,[Arthur_Ashe|Arthur Ashe]
+table-0275-18.csv,Runner-up,2,cate,7,[Victor_Amaya|Victor Amaya]
+table-0275-18.csv,Runner-up,2,cate,5,[Brian_Gottfried|Brian Gottfried]
+table-0530-567.csv,Birth date,1,cate,1,"March 6, 1992"
+table-0530-567.csv,Birth date,1,cate,5,"August 3, 1993"
+table-0530-567.csv,Birth date,1,cate,3,"July 3, 1992"
+table-0530-567.csv,Birth date,1,cate,4,"August 25, 1992"
+table-0530-567.csv,Birth date,1,cate,2,"May 22, 1992"
+table-0505-888.csv,Year,0,cate,14,1998
+table-0505-888.csv,Year,0,cate,6,1984
+table-0505-888.csv,Year,0,cate,5,1983
+table-0505-888.csv,Year,0,cate,10,1989
+table-0505-888.csv,Year,0,cate,7,1985
+table-0137-728.csv,Originally aired,3,cate,4,26 April 2011
+table-0137-728.csv,Originally aired,3,cate,0,5 July 2007
+table-0137-728.csv,Originally aired,3,cate,2,18 May 2009
+table-0137-728.csv,Originally aired,3,cate,3,15 April 2010
+table-0137-728.csv,Originally aired,3,cate,1,31 March 2008
+table-1211-479.csv,Description,5,cate,5,[Romanesque_architecture|Romanesque]
+table-1211-479.csv,Description,5,cate,4,
+table-1211-479.csv,Description,5,cate,6,Mid 19th Century Revival
+table-0323-31.csv,Date of birth,2,cate,4,"April 8, 1960 (age53)"
+table-0323-31.csv,Date of birth,2,cate,0,1931 (age82–83)
+table-0323-31.csv,Date of birth,2,cate,5,"November 8, 1950 (age63)"
+table-0323-31.csv,Date of birth,2,cate,2,"November 14, 1945 (age68)"
+table-0323-31.csv,Date of birth,2,cate,3,"August 4, 1955 (age58)"
+table-1522-438.csv,Established,2,num,1,2006
+table-1522-438.csv,Established,2,num,2,1999
+table-1522-438.csv,Established,2,num,9,2002
+table-1522-438.csv,Established,2,num,12,2004
+table-1522-438.csv,Established,2,num,10,1950
+table-0299-994.csv,First Aired,2,num,9,1989
+table-0299-994.csv,First Aired,2,num,12,1982
+table-0299-994.csv,First Aired,2,num,2,1988
+table-0299-994.csv,First Aired,2,num,7,1979
+table-0299-994.csv,First Aired,2,num,0,1984
+table-0278-605.csv,Birth date,3,cate,3,1 January 1864
+table-0278-605.csv,Birth date,3,cate,8,14 January 1892
+table-0278-605.csv,Birth date,3,cate,0,29 November 1896
+table-0278-605.csv,Birth date,3,cate,2,23 November 1883
+table-1286-517.csv,Birth date,3,cate,1,1 February 1982 (age32)
+table-1286-517.csv,Birth date,3,cate,5,8 September 1992 (age21)
+table-1286-517.csv,Birth date,3,cate,4,28 February 1975 (age38)
+table-1286-517.csv,Birth date,3,cate,18,5 November 1991 (age22)
+table-1286-517.csv,Birth date,3,cate,17,8 March 1981 (age32)
+table-0891-317.csv,Release date,3,cate,9,12-31-1955
+table-0891-317.csv,Release date,3,cate,0,03-27-1948
+table-0891-317.csv,Release date,3,cate,12,12-30-1944
+table-0891-317.csv,Release date,3,cate,6,06-11-1938
+table-0891-317.csv,Release date,3,cate,2,09-18-1943
+table-1566-51.csv,DVD releases,5,cate,7,"December 8, 2009"
+table-1566-51.csv,DVD releases,5,cate,8,"December 7, 2010"
+table-1566-51.csv,DVD releases,5,cate,4,"January9, 2007"
+table-1566-51.csv,DVD releases,5,cate,2,"September27, 2005"
+table-1566-51.csv,DVD releases,5,cate,3,"September12, 2006"
+table-0438-90.csv,Release Date,3,cate,9,11/30/1999 12/22/1999 --/--/1999
+table-0438-90.csv,Release Date,3,cate,2,--/--/2000 07/29/1999 --/--/2000
+table-0438-90.csv,Release Date,3,cate,0,12/25/1998 --/--/1998
+table-0438-90.csv,Release Date,3,cate,1,04/30/1999 06/10/1999 --/--/2000
+table-0438-90.csv,Release Date,3,cate,6,11/30/1999 10/21/1999 --/--/1999
+table-0204-5.csv,Arrival date,4,cate,1,February 2057
+table-0204-5.csv,Arrival date,4,cate,0,November 2069
+table-0204-5.csv,Arrival date,4,cate,3,April 2051
+table-0204-5.csv,Arrival date,4,cate,6,May 2044
+table-0204-5.csv,Arrival date,4,cate,8,May 2049
+table-1416-268.csv,Year Founded,3,num,4,1913
+table-1416-268.csv,Year Founded,3,num,1,1908
+table-1416-268.csv,Year Founded,3,num,2,1911
+table-1416-268.csv,Year Founded,3,num,3,1911
+table-1416-268.csv,Year Founded,3,num,7,1922
+table-1373-351.csv,Last ship commissioned,3,cate,5,USS Pompano (SS-181)
+table-1373-351.csv,Last ship commissioned,3,cate,7,USS Seawolf (SS-197)
+table-1373-351.csv,Last ship commissioned,3,cate,10,USS Croaker (SS-246)
+table-1373-351.csv,Last ship commissioned,3,cate,9,USS Marlin (SS-205)
+table-1373-351.csv,Last ship commissioned,3,cate,0,USS Bonita (SS-165)
+table-0002-2.csv,Departure,2,cate,2,4–6 January 1909
+table-0002-2.csv,Departure,2,cate,1,20 December 1908
+table-0002-2.csv,Departure,2,cate,0,1 December 1908
+table-0002-2.csv,Departure,2,cate,4,
+table-0002-2.csv,Departure,2,cate,3,6 February 1909
+table-0127-141.csv,Start,2,num,3,1
+table-0127-141.csv,Start,2,num,5,15
+table-0127-141.csv,Start,2,num,1,3
+table-0127-141.csv,Start,2,num,0,46
+table-0127-141.csv,Start,2,num,4,1
+table-1068-214.csv,Duration,3,cate,3,4 years
+table-1068-214.csv,Duration,3,cate,1,4 years
+table-1068-214.csv,Duration,3,cate,9,5 years
+table-1068-214.csv,Duration,3,cate,7,6 years
+table-1068-214.csv,Duration,3,cate,10,4 years
+table-1165-220.csv,Years,1,cate,5,1977-1981
+table-1165-220.csv,Years,1,cate,3,1971-1975
+table-1165-220.csv,Years,1,cate,4,1975-1977
+table-1165-220.csv,Years,1,cate,2,1967-1971
+table-1165-220.csv,Years,1,cate,1,1963-1967
+table-0480-789.csv,Marriage,4,cate,5,?
+table-0480-789.csv,Marriage,4,cate,7,?
+table-0480-789.csv,Marriage,4,cate,0,?
+table-0480-789.csv,Marriage,4,cate,4,?
+table-0480-789.csv,Marriage,4,cate,1,May 241
+table-0346-863.csv,Years,5,cate,3,1980–1986
+table-0346-863.csv,Years,5,cate,14,1981–2011
+table-0346-863.csv,Years,5,cate,5,2002–2011
+table-0346-863.csv,Years,5,cate,4,1987–2002
+table-0346-863.csv,Years,5,cate,2,1967–1981
+table-1088-876.csv,Birth,2,cate,10,"September 16, 1955"
+table-1088-876.csv,Birth,2,cate,7,"October 22, 1863"
+table-1088-876.csv,Birth,2,cate,0,"June 9, 1979"
+table-1088-876.csv,Birth,2,cate,8,"February 8, 1881"
+table-1088-876.csv,Birth,2,cate,5,"January 15, 1979"
+table-1270-428.csv,Death,4,num,1,
+table-1270-428.csv,Death,4,num,0,1982.0
+table-1270-428.csv,Death,4,num,7,1944.0
+table-1270-428.csv,Death,4,num,2,
+table-1270-428.csv,Death,4,num,8,1982.0
+table-1476-836.csv,Established,4,num,0,1985
+table-1476-836.csv,Established,4,num,2,1989
+table-1476-836.csv,Established,4,num,1,1975
+table-1476-836.csv,Established,4,num,4,1989
+table-1476-836.csv,Established,4,num,5,1975
+table-1298-86.csv,Established,5,cate,0,1960s
+table-1298-86.csv,Established,5,cate,1,1956
+table-1298-86.csv,Established,5,cate,2,1997
+table-1298-86.csv,Established,5,cate,6,1956
+table-1298-86.csv,Established,5,cate,4,1965
+table-0573-53.csv,Days,2,cate,3,30
+table-0573-53.csv,Days,2,cate,5,30
+table-0573-53.csv,Days,2,cate,4,31
+table-0573-53.csv,Days,2,cate,11,31
+table-0573-53.csv,Days,2,cate,8,30
+table-0442-591.csv,Quantity,1,num,6,89
+table-0442-591.csv,Quantity,1,num,4,156
+table-0442-591.csv,Quantity,1,num,1,35
+table-0442-591.csv,Quantity,1,num,7,257
+table-0442-591.csv,Quantity,1,num,5,4
+table-0981-892.csv,Seating Capacity,2,cate,8,"25,000"
+table-0981-892.csv,Seating Capacity,2,cate,17,"13,000"
+table-0981-892.csv,Seating Capacity,2,cate,11,"18,525"
+table-0981-892.csv,Seating Capacity,2,cate,4,"30,000"
+table-0981-892.csv,Seating Capacity,2,cate,1,"75,000"
+table-0554-253.csv,Capacity,3,cate,11,"4,500"
+table-0554-253.csv,Capacity,3,cate,15,"6,200"
+table-0554-253.csv,Capacity,3,cate,12,"6,880"
+table-0554-253.csv,Capacity,3,cate,1,"5,000"
+table-0554-253.csv,Capacity,3,cate,9,"10,400"
+table-0626-638.csv,Capacity,3,cate,11,"15,000"
+table-0626-638.csv,Capacity,3,cate,4,"24,000"
+table-0626-638.csv,Capacity,3,cate,2,"9,000"
+table-0626-638.csv,Capacity,3,cate,12,"45,750"
+table-0626-638.csv,Capacity,3,cate,10,"20,000"
+table-0013-514.csv,Capacity,4,cate,8,"8,000"
+table-0013-514.csv,Capacity,4,cate,2,"3,500"
+table-0013-514.csv,Capacity,4,cate,6,"4,280"
+table-0013-514.csv,Capacity,4,cate,1,"5,000"
+table-0013-514.csv,Capacity,4,cate,9,"13,500"
+table-0818-804.csv,Capacity at Construction,4,cate,1,"52,000"
+table-0818-804.csv,Capacity at Construction,4,cate,0,"53,000"
+table-0818-804.csv,Capacity at Construction,4,cate,2,"43,500"
+table-0818-804.csv,Capacity at Construction,4,cate,3,"25,000"
+table-0818-804.csv,Capacity at Construction,4,cate,9,"15,000"
+table-1020-478.csv,Frequency,0,num,2,97.3
+table-1020-478.csv,Frequency,0,num,4,99.9
+table-1020-478.csv,Frequency,0,num,6,107.9
+table-1020-478.csv,Frequency,0,num,5,105.9
+table-1020-478.csv,Frequency,0,num,1,91.1
+table-0105-99.csv,Frequency,2,cate,2,92.3MHz
+table-0105-99.csv,Frequency,2,cate,5,89.3MHz
+table-0105-99.csv,Frequency,2,cate,6,89.1MHz
+table-0105-99.csv,Frequency,2,cate,1,106.3MHz
+table-0105-99.csv,Frequency,2,cate,3,95.1MHz
+table-1057-467.csv,[Frequency|Frequency],2,cate,1,103.5
+table-1057-467.csv,[Frequency|Frequency],2,cate,12,98.1
+table-1057-467.csv,[Frequency|Frequency],2,cate,6,91.3
+table-1057-467.csv,[Frequency|Frequency],2,cate,8,1450 AM*
+table-1057-467.csv,[Frequency|Frequency],2,cate,2,93.9
+table-0866-915.csv,Population,3,cate,1,361
+table-0481-827.csv,Population,1,cate,6,9
+table-0481-827.csv,Population,1,cate,7,"1,200"
+table-0481-827.csv,Population,1,cate,0,50
+table-0481-827.csv,Population,1,cate,1,"1,000"
+table-0481-827.csv,Population,1,cate,2,30
+table-1615-457.csv,Postal code,2,num,6,77870
+table-1615-457.csv,Postal code,2,num,5,77210
+table-1513-721.csv,Area,2,text,6,km2 (sqmi)
+table-1513-721.csv,Area,2,text,3,km2 (sqmi)
+table-1513-721.csv,Area,2,text,5,km2 (sqmi)
+table-1513-721.csv,Area,2,text,8,km2 (sqmi)
+table-1513-721.csv,Area,2,text,10,km2 (sqmi)
+table-0518-106.csv,Area (000s),1,cate,8,255.8km 2
+table-0518-106.csv,Area (000s),1,cate,3,93.0km 2
+table-0518-106.csv,Area (000s),1,cate,0,28.7km 2
+table-0518-106.csv,Area (000s),1,cate,1,110.9km 2
+table-0518-106.csv,Area (000s),1,cate,6,237.5km 2
+table-1560-45.csv,length (km),3,num,7,6.4
+table-1560-45.csv,length (km),3,num,1,12.9
+table-1560-45.csv,length (km),3,num,5,7.7
+table-1560-45.csv,length (km),3,num,3,5.9
+table-1560-45.csv,length (km),3,num,2,11.6
+table-1589-204.csv,Height (m),2,num,6,910
+table-1589-204.csv,Height (m),2,num,0,978
+table-1589-204.csv,Height (m),2,num,3,935
+table-1589-204.csv,Height (m),2,num,8,899
+table-1589-204.csv,Height (m),2,num,4,934
+table-0853-835.csv,Height,4,text,1,m (ft)
+table-0853-835.csv,Height,4,text,5,m (ft)
+table-0853-835.csv,Height,4,text,4,m (ft)
+table-0853-835.csv,Height,4,text,2,m (ft)
+table-0853-835.csv,Height,4,text,3,m (ft)
+table-0667-434.csv,Height,4,text,4,ft (m)
+table-0667-434.csv,Height,4,text,3,ft (m)
+table-0667-434.csv,Height,4,text,2,ft (m)
+table-0667-434.csv,Height,4,text,14,ft (m)
+table-0667-434.csv,Height,4,text,8,ft (m)
+table-0243-115.csv,Total bit rate/bandwidth,3,cate,9,
+table-0243-115.csv,Total bit rate/bandwidth,3,cate,13,
+table-0243-115.csv,Total bit rate/bandwidth,3,cate,0,2.5-6 Mbit/s
+table-0243-115.csv,Total bit rate/bandwidth,3,cate,3,3.5Mbit/s (2.5Mbits for 720p)
+table-0243-115.csv,Total bit rate/bandwidth,3,cate,11,4.5Mbit/s
+table-0200-395.csv,Length,6,cate,4,25.02 m
+table-0200-395.csv,Length,6,cate,3,
+table-0200-395.csv,Length,6,cate,5,24.764 m
+table-0200-395.csv,Length,6,cate,8,28.40 m
+table-0200-395.csv,Length,6,cate,1,28.00 m
+table-0521-849.csv,Population,1,cate,5,"7,820"
+table-0521-849.csv,Population,1,cate,1,"28,645"
+table-0521-849.csv,Population,1,cate,8,"6,875"
+table-0521-849.csv,Population,1,cate,2,"23,830"
+table-0521-849.csv,Population,1,cate,6,"7,820"
+table-0388-615.csv,Capacity,1,cate,1,"75,849"
+table-0388-615.csv,Capacity,1,cate,6,"35,161"
+table-0388-615.csv,Capacity,1,cate,2,"62,384"
+table-0388-615.csv,Capacity,1,cate,8,"33,000"
+table-0388-615.csv,Capacity,1,cate,11,"27,500"
+table-0198-753.csv,Budget,2,cate,3,"$10,800,000"
+table-0198-753.csv,Budget,2,cate,10,TBA
+table-0198-753.csv,Budget,2,cate,6,"$11,000,000"
+table-0198-753.csv,Budget,2,cate,5,"$6,000,000"
+table-0198-753.csv,Budget,2,cate,2,"$2,000,000"
+table-1540-414.csv,Annual Budget,2,cate,14,<span> citation needed</span> 
+table-1540-414.csv,Annual Budget,2,cate,3,<span> citation needed</span> 
+table-1540-414.csv,Annual Budget,2,cate,2,<span> citation needed</span> 
+table-1540-414.csv,Annual Budget,2,cate,17,<span> citation needed</span> 
+table-1540-414.csv,Annual Budget,2,cate,0,<span> citation needed</span> 
+table-1207-699.csv,Tailcode,2,cate,0,AB
+table-1207-699.csv,Tailcode,2,cate,5,AJ
+table-1207-699.csv,Tailcode,2,cate,6,NG
+table-1207-699.csv,Tailcode,2,cate,1,NE
+table-1207-699.csv,Tailcode,2,cate,8,
+table-0667-1.csv,Gender,2,cate,10,Mix
+table-0667-1.csv,Gender,2,cate,2,Male
+table-0667-1.csv,Gender,2,cate,11,Male
+table-0667-1.csv,Gender,2,cate,0,Male
+table-0667-1.csv,Gender,2,cate,5,Male
+table-0531-600.csv,Inhabitants,1,cate,11,"1,997"
+table-1079-342.csv,Weight,1,cate,7,Super-Featherweight
+table-1079-342.csv,Weight,1,cate,0,Flyweight
+table-1079-342.csv,Weight,1,cate,11,Featherweight
+table-1079-342.csv,Weight,1,cate,1,Lightweight
+table-1079-342.csv,Weight,1,cate,4,Featherweight
+table-0077-280.csv,ISBNs,3,cate,6,0-09-944148-9
+table-0077-280.csv,ISBNs,3,cate,9,978-0434014620
+table-0077-280.csv,ISBNs,3,cate,12,978-1439102398
+table-0077-280.csv,ISBNs,3,cate,3,0-09-930720-0
+table-0077-280.csv,ISBNs,3,cate,13,978-1439102411
+table-1344-234.csv,Lyricist,2,text,2,Bhaskarabhatla Ravikumar
+table-1344-234.csv,Lyricist,2,text,0,Bhaskarabhatla Ravikumar
+table-1344-234.csv,Lyricist,2,text,4,Bhaskarabhatla Ravikumar
+table-1344-234.csv,Lyricist,2,text,1,Bhaskarabhatla Ravikumar
+table-1344-234.csv,Lyricist,2,text,3,Bhaskarabhatla Ravikumar
+table-0453-132.csv,Description,3,cate,3,Pancake
+table-0453-132.csv,Description,3,cate,1,Kind of meatballs in Berlin
+table-0453-132.csv,Description,3,cate,5,"Raw ground pork that is spiced with salt and pepper, garlic and caraway."
+table-0453-132.csv,Description,3,cate,2,Hot pork sausage served either with curry ketchup or a tomato paste with curry powder.
+table-0453-132.csv,Description,3,cate,8,"Sweet dough dumplings, fried in fat or oil, filled with jam and glazed with confectioner's sugar. Also known simply as ""Berliner"" or, in the eastern part of Germany, including Berlin itself, ""Pfannkuchen"". In Bavaria they're called ""Krapfen""."
+table-0234-425.csv,Short Description,1,cate,4,standard input and output
+table-0234-425.csv,Short Description,1,cate,1,"A system message sent from one process to another, not usually used to store information but instead give commands."
+table-0234-425.csv,Short Description,1,cate,7,[Computer_memory|memory]
+table-0234-425.csv,Short Description,1,cate,0,A record stored on disk that can be accessed by name by any process
+table-0234-425.csv,Short Description,1,cate,2,"A data stream sent over a network interface, either to a different process on the same computer or to another computer"
+table-0384-303.csv,Degree(s),2,cate,0,B.A.
+table-0384-303.csv,Degree(s),2,cate,4,A.A.
+table-0384-303.csv,Degree(s),2,cate,3,
+table-0384-303.csv,Degree(s),2,cate,1,[Brigham_Young_University|Brigham_Young_University]
+table-0384-303.csv,Degree(s),2,cate,2,A.A.
+table-0350-999.csv,District,3,cate,1,Sahebganj
+table-0350-999.csv,District,3,cate,4,Pakur
+table-0350-999.csv,District,3,cate,0,Sahebganj
+table-0350-999.csv,District,3,cate,2,Sahebganj
+table-0350-999.csv,District,3,cate,3,Pakur
+table-0227-835.csv,Role,1,cate,1,Atkinson
+table-0227-835.csv,Role,1,cate,8,Admiral Drake
+table-0227-835.csv,Role,1,cate,12,Ken
+table-0227-835.csv,Role,1,cate,10,Borelli's Man
+table-0227-835.csv,Role,1,cate,6,Baron's Manager
+table-1262-947.csv,Affiliation,5,text,8,Public
+table-1262-947.csv,Affiliation,5,text,0,Public
+table-1262-947.csv,Affiliation,5,text,19,Public
+table-1262-947.csv,Affiliation,5,text,3,Public
+table-1262-947.csv,Affiliation,5,text,6,Public
+table-0918-840.csv,Notes,3,cate,12,[Depleted_uranium|depleted uranium]
+table-0918-840.csv,Notes,3,cate,8,[Enduring_Stockpile|Enduring Stockpile]
+table-0918-840.csv,Notes,3,cate,9,Most powerful US test.
+table-0918-840.csv,Notes,3,cate,2,[Plutonium-239|plutonium-239]
+table-0918-840.csv,Notes,3,cate,10,[B41_nuclear_bomb|B41]
+table-0194-712.csv,Current status,4,cate,2,Defunct
+table-0194-712.csv,Current status,4,cate,3,Defunct
+table-0194-712.csv,Current status,4,cate,4,Disbanded in 1969
+table-0194-712.csv,Current status,4,cate,1,Assumed defunct
+table-0194-712.csv,Current status,4,cate,0,Defunct
+table-0012-523.csv,Last ship commissioned,3,num,1,1959.0
+table-0428-121.csv,Description of Members,3,cate,0,"All three tourmates were killed, along with pilot"
+table-0428-121.csv,Description of Members,3,cate,2,[Bill_Chase|Bill Chase]
+table-0428-121.csv,Description of Members,3,cate,6,[Eurodance|Eurodance]
+table-0428-121.csv,Description of Members,3,cate,1,[Ronnie_Caldwell|Ronnie Caldwell]
+table-0428-121.csv,Description of Members,3,cate,4,All five members killed
+table-1374-616.csv,Description,2,cate,3,Category:Jct template transclusions with missing shields
+table-1374-616.csv,Description,2,cate,5,Preceded by Forestry Trunk Road (central segment)
+table-1374-616.csv,Description,2,cate,1,Category:Jct template transclusions with missing shields
+table-1374-616.csv,Description,2,cate,10,Category:Jct template transclusions with missing shields
+table-1374-616.csv,Description,2,cate,6,Category:Jct template transclusions with missing shields
+table-1211-842.csv,Description,5,cate,7,Polish Cathedral Style
+table-1211-842.csv,Description,5,cate,4,Log building; black walnut timbers
+table-1211-842.csv,Description,5,cate,17,Greek Revival
+table-1211-842.csv,Description,5,cate,2,"Romanesque, Renaissance"
+table-1422-378.csv,Status,1,cate,4,Valid
+table-1422-378.csv,Status,1,cate,7,Valid
+table-1422-378.csv,Status,1,cate,3,Valid
+table-1422-378.csv,Status,1,cate,6,[Nomen_dubium|nomen dubium]
+table-1422-378.csv,Status,1,cate,0,Valid
+table-0037-691.csv,Role,1,cate,4,Cho Mei-Ngoh 曹美娥
+table-0037-691.csv,Role,1,cate,6,Shu Siu-Man 舒小曼
+table-0037-691.csv,Role,1,cate,9,Angela
+table-0037-691.csv,Role,1,cate,7,Gam Shing-Tsun 甘誠俊
+table-0037-691.csv,Role,1,cate,0,Mung Ka-Ka 蒙嘉嘉
+table-0060-296.csv,Role,1,cate,3,Au Man-Wai 歐文偉
+table-0060-296.csv,Role,1,cate,5,Ko Cheuk-Man 高卓文
+table-0060-296.csv,Role,1,cate,0,Ko Fung 高峰
+table-0060-296.csv,Role,1,cate,2,Chow Yi-Tung 周依彤
+table-0060-296.csv,Role,1,cate,7,Cheung Hon-Ming 張漢明
+table-1615-748.csv,Type,4,cate,7,[Automatic_rifle|Automatic weapons]
+table-1615-748.csv,Type,4,cate,10,[Automatic_rifle|Automatic weapons]
+table-1615-748.csv,Type,4,cate,2,Improvised Explosive Device
+table-1615-748.csv,Type,4,cate,0,Improvised explosive device
+table-1615-748.csv,Type,4,cate,6,Improvised Explosive Device
+table-1158-728.csv,Accessories,1,cate,1,"Removable ""skirt"""
+table-1158-728.csv,Accessories,1,cate,10,
+table-1158-728.csv,Accessories,1,cate,8,Gun
+table-1158-728.csv,Accessories,1,cate,6,
+table-1158-728.csv,Accessories,1,cate,5,Beta-club
+table-0546-965.csv,Type,3,cate,9,Cookies
+table-0546-965.csv,Type,3,cate,0,Bread
+table-0546-965.csv,Type,3,cate,2,Pastry
+table-0546-965.csv,Type,3,cate,8,
+table-0546-965.csv,Type,3,cate,3,Pastry
+table-1265-550.csv,Type of Abort,3,cate,2,ATO
+table-1265-550.csv,Type of Abort,3,cate,5,RSLS
+table-1265-550.csv,Type of Abort,3,cate,3,RSLS
+table-1265-550.csv,Type of Abort,3,cate,0,RSLS
+table-1265-550.csv,Type of Abort,3,cate,1,RSLS
