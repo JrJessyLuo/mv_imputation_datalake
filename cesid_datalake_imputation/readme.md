@@ -38,7 +38,7 @@ NOTE: The following steps are based on the example data lake named **test**. If 
 3. Prepare the Data Lake
   - If you are creating a new data lake (e.g., `test`), you should first follow these steps:
 ```
-cd cesid_datalake_imputation/codes
+cd cesid_datalake_imputation/
 mkdir test_benchmark
 mkdir test_benchmark/query
 mkdir test_benchmark/datalake
@@ -46,12 +46,12 @@ mkdir test_benchmark/datalake
 Place the chosen **incomplete tables** in `test_benchmark/query` and the **data lake tables** in `test_benchmark/datalake`.
 And inject the missing values into the data lake: 
 ```
-cd utils
+cd codes/utils
 python inject_missing_values.py --benchmark test --missing_cnt 100
 ```
   - Using our Provided Data Lake (e.g., `OpenData`), follow these steps:
 ```
-cd cesid_datalake_imputation/codes
+cd cesid_datalake_imputation/
 mkdir opendata_benchmark
 mkdir opendata_benchmark/query
 mkdir opendata_benchmark/datalake
@@ -60,7 +60,7 @@ Place the chosen incomplete tables in `opendata_benchmark/query` and the data la
 Place the missing value in the benchmark:
 ```
 mkdir opendata_benchmark/missing_query
-cp ../data/entitables/missing_tab_row_col.csv opendata_benchmark/missing_query/
+cp data/opendata/missing_tab_row_col.csv opendata_benchmark/missing_query/
 ```
   
 4. Run the search module
